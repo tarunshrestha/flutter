@@ -43,7 +43,8 @@ void main() {
 
   print(calculate(2, 10));
 
-  String greet(String name) {
+  String? greet(String name) {
+    // String or a null
     return "Hello ${name}";
   }
 
