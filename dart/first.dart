@@ -64,4 +64,8 @@ void main() {
   var (age, name) = test(24, "test");
   print(age);
   print(name);
+
+  // Arrow Function
+  int add(int a, int b) => a + b;
+  print(add(5, 42));
 }
