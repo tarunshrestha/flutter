@@ -4,6 +4,9 @@ void main() {
   print(a.flavour);
   print(a.get_flavour());
   a.backing();
+
+  a.flavour = "Cream";
+  print(a.flavour);
 }
 
 class Cookie {
