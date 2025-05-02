@@ -7,6 +7,8 @@ void main() {
       print('Human');
     case Cat():
       print("Cat");
+    default:
+      print("Something went wrong");
   }
 }
 
