@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36294265414",
+    "project_id": "my-notes-backend-tarun",
+    "storage_bucket": "my-notes-backend-tarun.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36294265414:android:b30bb1e8f58db9a2479847",
+        "android_client_info": {
+          "package_name": "com.example.mynote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsuapceTLctGFoqRfvWeJ8v3VOuzV9G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
