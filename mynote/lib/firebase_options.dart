@@ -83,4 +83,5 @@ class DefaultFirebaseOptions {
     authDomain: 'my-notes-backend-tarun.firebaseapp.com',
     storageBucket: 'my-notes-backend-tarun.firebasestorage.app',
   );
+
 }
